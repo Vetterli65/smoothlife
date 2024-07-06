@@ -1,5 +1,7 @@
 # SmoothLife Project
 
+![Screenshot from 2024-07-05 21-06-42](https://github.com/Vetterli65/smoothlife/assets/82554171/e99b08a8-f2bc-487a-b053-782c2d2c3566)
+
 SmoothLife is a project that simulates a smooth version of Conway's Game of Life. This project implements the SmoothLife algorithm and provides a graphical interface to visualize the simulation.
 
 ## Features
