@@ -6,7 +6,7 @@ SmoothLife is a project that simulates a smooth version of Conway's Game of Life
 
 ## Features
 
-- Implementation of the SmoothLife algorithm
+- Implementation of the SmoothLife algorithm and fully ran on GPU
 - Graphical user interface for visualization
 - Adjustable parameters for the simulation
 
