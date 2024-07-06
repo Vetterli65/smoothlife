@@ -1,0 +1,11 @@
+build/*
+
+!build/shader.fs
+!build/smoothlife
+
+external/raylib
+.vscode/
+
+src/main.cpp
+
+!build/
