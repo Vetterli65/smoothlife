@@ -66,3 +66,4 @@ You can adjust the simulation parameters by modifying the parameters inside the 
 ### References
 
 * Stephan Rafler, "Generalization of Conway's "Game of Life" to a Continuous Domain - SmoothLife," arXiv:1106.1640, 2011. [Link](http://arxiv.org/pdf/1111.1567)
+* Tsoding, "Simulating Life on my Computer like a Scientist"
